@@ -1,3 +1,4 @@
 # TMDavi.github.io
 
-- [Projeto House Prices](https://tmdavi.github.io/houseprices/)
+## Projetos desenvolvidos
+-  [House Prices](https://tmdavi.github.io/houseprices/)
